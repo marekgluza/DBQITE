@@ -25,7 +25,8 @@ https://arxiv.org/abs/2412.04554
 4.1 [Counting CZ gates in Qibo](#4.1-Counting-CZ-gates-in-Qibo)<br>
 4.2 [Visualization of CZ gate cost](#4.2-Visualization-of-CZ-gate-cost)
 
-![obraz-4.png](attachment:obraz-4.png)
+![obraz](https://github.com/user-attachments/assets/5b55ab46-e0a5-4e65-8b23-8d6d1777e4bf)
+
 
 # 1. Initialization
 
